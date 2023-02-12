@@ -4,7 +4,10 @@ import Header from '../components/Header'
 export default class Curriculo extends Component {
   render() {
     return (
-      <Header />
-      )
+      <div>
+        'oi'
+        <Header />
+      </div>
+    )
   }
 }
