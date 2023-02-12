@@ -6,6 +6,7 @@ export default class SobreMim extends Component {
   render() {
     return (
       <div>
+        'esse oi deveria sumir'
         <Header/>
         <img alt='foto2' className="mulherreact" src={mulherreact}/>
       </div>
