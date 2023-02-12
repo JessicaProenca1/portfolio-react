@@ -7,6 +7,7 @@ export default class SobreMim extends Component {
     return (
       <div>
         'esse oi deveria sumir'
+        'oooooooi'
         <Header/>
         <img alt='foto2' className="mulherreact" src={mulherreact}/>
       </div>
